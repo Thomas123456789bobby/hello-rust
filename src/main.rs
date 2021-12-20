@@ -16,8 +16,3 @@ fn main() {
     arrays::run();  
     button::run();  
 }
-let n:i32 = 0;
-while n <1000000 {
-    n++;
-}
- 
